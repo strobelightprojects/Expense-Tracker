@@ -12,9 +12,7 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+*Java 21.0.2 *IntelliJ IDEA *Git/Github 
 
 # Useful Websites
 
