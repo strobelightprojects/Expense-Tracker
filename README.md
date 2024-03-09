@@ -18,8 +18,8 @@
 
 # Useful Websites
 
-- [W3schools website used the Java tutorial]([http://url.link.goes.here](https://www.w3schools.com/java/default.asp))
-- [Oracle used to download Java JDK]([http://url.link.goes.here](https://www.oracle.com/java/technologies/downloads/))
+- [W3schools website used the Java tutorial](https://www.w3schools.com/java/default.asp)
+- [Oracle used to download Java JDK](https://www.oracle.com/java/technologies/downloads/ )
 - [Beginners Book use to learn more about Java](https://beginnersbook.com/java-collections-tutorials/)
 # Future Work
 
