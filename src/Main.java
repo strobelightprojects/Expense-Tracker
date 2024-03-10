@@ -36,10 +36,10 @@ public class Main {
             System.out.println("Enter expense amount: ");
             double expenseAmount = getValidDouble(scanner);
 
-            // Capture current date and time
+            // current date and time
             LocalDateTime dateTime = LocalDateTime.now();
 
-            // Add or update expense in the map with date and time
+            // Add or update expenses 
             expenses.put(category + " - " + expenseName + " - " + dateTime, expenses.getOrDefault(category + " - " + expenseName + " - " + dateTime, 0.0) + expenseAmount);
         }
 
