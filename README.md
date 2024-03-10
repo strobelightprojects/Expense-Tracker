@@ -1,7 +1,7 @@
 # Overview
 I created this program to start working with the Java programming language. In this program, I created a basic expense tracker that breaks expenses into 4 categories and then adds the totals for these categories. I Made it so it will store the data entered into a Txt file that will store the category name of the expense and the amount and also the date and time the entry was entered. After adding expenses, the program will display the total expenses for each category stored in the Txt file. Overall I achieved my purpose with this project of practicing working with Java. 
 
-
+ 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
